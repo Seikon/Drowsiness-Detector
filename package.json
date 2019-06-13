@@ -1,0 +1,15 @@
+{
+  "name": "drowsinessdetector",
+  "version": "1.0.0",
+  "description": "Computer vision solution for drowsinnes detection in many enviroments",
+  "main": "src\\app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src\\app.js"
+  },
+  "author": "Alejandro",
+  "license": "ISC",
+  "dependencies": {
+    "opencv4nodejs": "^4.17.0"
+  }
+}
